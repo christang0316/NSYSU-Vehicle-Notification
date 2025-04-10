@@ -16,7 +16,7 @@
 
 ## 📦 最新版本下載
 
-前往 [Releases 頁面](https://github.com/christang0316/NSYSU-Vehicle-Notification/releases) 下載最新版本（例如：`violation-alert-v0.1.0-beta.1.apk`）
+前往 [Releases 頁面](https://github.com/christang0316/NSYSU-Vehicle-Notification/releases) 下載最新`.apk`檔（例如：`violation-alert-v0.1.0-beta.1.apk`）
 
 如無法安裝，請前往 Android 設定 > 安全性 > 安裝未知來源，允許瀏覽器安裝 APK。
 
